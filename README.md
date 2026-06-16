@@ -8,7 +8,7 @@ Learning: Facial Expression Recognition Challenge*. აქცენტი გა
 **Weights & Biases (W&B)**-ში.
 
 - **W&B პროექტი:** https://wandb.ai/dgrig23-free-university-of-tbilisi-/facial-expression-recognition
-- **W&B რეპორტი (ბონუსი):** 
+- **W&B რეპორტი (ბონუსი):** https://wandb.ai/dgrig23-free-university-of-tbilisi-/facial-expression-recognition/reports/FER2013-CNN---VmlldzoxNzI0OTIzMA
 
 ## მონაცემთა ბაზა (Dataset)
 
